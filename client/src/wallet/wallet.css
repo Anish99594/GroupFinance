@@ -1,0 +1,24 @@
+.connect {
+    /* position: fixed;
+    top: 20px; 
+    right: 20px;  */
+    padding: 10px 20px;
+    /* background-color: #4caf50; */
+    background-color: #e0e496c1;
+    
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    z-index: 1000; /* Ensures the button stays on top of other elements */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .connect:hover {
+    background-color: #bdb890;
+  }
+  
+  .connect:focus {
+    outline: none; /* Removes the focus outline */
+  }
