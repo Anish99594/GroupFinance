@@ -1,5 +1,11 @@
 # GroupFinance
 
+## Project Front Page
+
+Here is a preview of the project's front page:
+
+![Dashboard](client/src/assets/groupFianacedashboard.png)
+
 ## Overview
 
 The **GroupFinance** contract is a decentralized lending and borrowing system designed for groups of borrowers to collectively take out a loan. Each member of the group is responsible for repaying a portion of the loan, and lenders can invest in the system to earn interest on their investments. The contract also includes features like loan repayments, handling defaults, covering defaults, and reward distribution for borrowers who repay their loan on time.
